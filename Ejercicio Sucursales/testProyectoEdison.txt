@@ -1,0 +1,19 @@
+1 juan 1 2000000
+2 dora 1 700000
+3 pedro 2 3500000
+4 camilo 2 6500000
+5 laura 3 2000000
+6 jessica 1 2000000
+7 lizeth 3 2000000
+9 erica 3 1000000
+
+total suc 1 = 11000000 
+total suc 2 = 10000000
+total suc 3 = 4000000
+
+sin comisison 
+laura 
+lizeth
+
+
+num suc 3
